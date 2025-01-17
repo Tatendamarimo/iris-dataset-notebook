@@ -1,7 +1,3 @@
-Here’s a sample README for your `iris-dataset-notebook` repository:
-
----
-
 # Iris Dataset Notebook
 
 This repository contains a Jupyter Notebook (`Iris_dataset.ipynb`) that explores and analyzes the classic Iris dataset. The notebook includes data visualization, statistical analysis, and machine learning models to classify the different species of the Iris flower.
